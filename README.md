@@ -18,7 +18,7 @@ Before we launch, make sure you have the following installed:
 
 ### Mission Files
 
-Grab your space gear [here](#) (Module 11 Challenge files) to start your journey. These include the mission blueprints (starter code) for both parts of the project.
+Grab your space gear (Module 11 Challenge files) to start your journey. These include the mission blueprints (starter code) for both parts of the project.
 
 ## 📡 Mission Instructions
 
@@ -62,15 +62,7 @@ Embark on a quest to answer these stellar questions:
 
 ## 🤝 Join the Mission
 
-Embark on this adventure by forking this project. Contributions and pull requests are more than welcome. Let's unravel the mysteries of Mars together!
-
-## 📜 License
-
-This mission is shared under the MIT License - see the [LICENSE.md](LICENSE.md) file for details.
-
 Embark on this interplanetary adventure to not just learn about data science, but to connect with the wonder of exploring another world. Let's lift off!
-
-References
 
 ## The Mars News website
 Links to an external site. is operated by edX Boot Camps LLC for educational purposes only. The news article titles, summaries, dates, and images were scraped from NASA's Mars News Links to an external site. website in November 2022. Images are used according to the JPL Image Use Policy Links to an external site., courtesy NASA/JPL-Caltech.
